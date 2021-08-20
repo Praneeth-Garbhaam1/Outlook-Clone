@@ -1,0 +1,117 @@
+.header{
+    background-color: rgb(0,120,212);
+    height: 48px;
+    display:flex;
+    color: #fff;
+  }
+#appicon{
+padding: 12px;
+padding-right: 14px;
+}
+#appicon:hover{
+  background-color: rgb(0,90,158);
+}
+.icon1{
+  padding: 14px 15px 3px 15px;
+}
+.icon1:hover{
+  background-color: rgb();
+}
+#but{
+  margin-top: 9px;
+  width: 141px;
+}
+.icons{
+  display: flex;
+  list-style: none;
+  padding-left: 338px;
+}
+p{
+  padding: 0px 100px 4px 4px;
+  font-weight: 600;
+}
+#search{
+  width: 448px;
+  height: 32px;
+  color: rgb(0,90,158);
+}
+.search-container{
+  margin-top: 8px;
+}
+li{
+  padding: 0px 24px 0px 0px;
+}
+li:hover{
+  background-color: rgb(237,235,233);
+  padding:5px 24px 5px 0px;
+ 
+}
+i:hover{
+
+  background-color:rgb(0,90,158);
+  padding: 12px;
+  padding-right: 14px;
+}
+.secondheader{
+  display: flex;
+
+  background-color: rgb(243,242,241);
+  color:rgb(0,120,212);
+}
+.secondheaderitems{
+  display: flex;
+  list-style:none;
+}
+.sidebar{
+
+  background-color: rgb(243,242,241);
+  width: 215px;
+  height: 510px;
+}
+.list{
+  color: #111;
+  display: block;
+  list-style: none;
+  width: 150px;
+  
+}
+.content{
+  background-color: #fff;
+  width: 448px;
+  overflow-y: scroll;
+}
+.mails{
+  background-color: rgb(250,249,248);
+  height: 510px;
+  justify-content: center;
+}
+#pivot{
+  background-color: #fff;
+}
+img{
+  margin-top: 150px;
+  margin-left: 170px;
+}
+#select{
+  padding-left: 210px;
+}
+#span{
+  color: grey;
+  padding-left: 220px;
+}
+button{
+  margin: 7px 0px 7px 0px ;
+  border-radius: 50px;
+  background-color: rgb(0,90,158);
+  color: #fff;
+  border: 1px solid #fff;
+}
+#table{
+  width: 500px;
+}
+#but:hover{
+  background-color: rgb(0,90,158);
+}
+#selectAll{
+  position: absolute;
+}

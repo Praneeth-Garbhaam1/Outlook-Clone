@@ -1,0 +1,42 @@
+.header{
+    background-color: #2278D4;
+    color: #fff;
+    margin: 0px;
+    display: flex;
+}
+.header > span{
+    margin: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+input{
+    width: 30%;
+    height: 30px;
+    border: none;
+    background-color: rgb(181,215,242);
+    border-radius: 2px;
+    margin: 10px 207px 10px 126px;
+}
+.ms-Icon--WaffleOffice365{
+    padding: 16px;
+}
+.ms-Icon--WaffleOffice365:hover{
+    background-color: rgba(22,90,158);
+}
+.meetnow{
+    padding: 15px;
+}
+.meetnow:hover{
+    background-color: rgba(22,90,158);
+}
+.meetnow > span{
+    padding: 11px;
+}
+.icons{
+    display: flex;
+    list-style: none;
+    margin: 10px;
+}
+.icons > .ms-Icon{
+    padding: 4px;
+}
